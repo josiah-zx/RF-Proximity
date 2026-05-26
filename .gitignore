@@ -71,3 +71,7 @@ Testing/
 # JetBrains IDE project folder
 .idea/
 **/.idea/
+
+# local hardware config
+config.h
+**/config.h
