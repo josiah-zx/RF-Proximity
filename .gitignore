@@ -67,3 +67,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# JetBrains IDE project folder
+.idea/
+**/.idea/
